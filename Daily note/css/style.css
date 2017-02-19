@@ -1,0 +1,15 @@
+.border{
+	border: 2px solid #ddd;
+}
+
+.padding15{
+	padding:15px;
+}
+
+.margintop10p{
+	margin-top:10%;
+}
+
+.pointer{
+	cursor: pointer;
+}
